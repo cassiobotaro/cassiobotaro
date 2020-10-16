@@ -1,4 +1,13 @@
-### Hi there 👋
+![capa github](capa_github.png)
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiobotaro&hide=html&layout=compact&theme=bluegreen" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=cassiobotaro&theme=bluegreen"/></td>
+    </tr>
+  </table>
+</center>
 
 <!--
 **cassiobotaro/cassiobotaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
