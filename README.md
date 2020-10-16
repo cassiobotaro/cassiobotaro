@@ -8,3 +8,11 @@
     </tr>
   </table>
 </center>
+
+### Hi! Welcome 👨‍💻
+
+💻 I'm Software engineer with comprehensive knowledge of platform development, agile methodologies, and web-based applications. Dedicated to building high quality and innovative systems in an agile way. Involved with software communities and knowledge exchange.
+
+🖖 Proud member of [Python MG]() and [GoBH]().
+
+✍️ Sometimes I write on my [blog](http://cassiobotaro.dev).
