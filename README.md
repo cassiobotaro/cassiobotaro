@@ -11,8 +11,10 @@
 
 ### Hi! Welcome 👨‍💻
 
-💻 I'm Software engineer with comprehensive knowledge of platform development, agile methodologies, and web-based applications. Dedicated to building high quality and innovative systems in an agile way. Involved with software communities and knowledge exchange.
+💻 Software Engineer at [@luizalabs](https://github.com/luizalabs).
 
 🖖 Proud member of [Python MG](https://github.com/pythonmg) and [GoBH](https://github.com/gobelohorizonte).
+
+📹 Sometimes, they put me on [Youtube](https://www.youtube.com/cassiobotaro).
 
 ✍️ Sometimes I write on my [blog](http://cassiobotaro.dev).
