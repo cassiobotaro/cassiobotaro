@@ -11,7 +11,7 @@
 
 ### Hi! Welcome 👨‍💻
 
-💻 Software Engineer at [@luizalabs](https://github.com/luizalabs).
+💻 Software Developer Engineer
 
 🖖 Proud member of [Python MG](https://github.com/pythonmg) and [GoBH](https://github.com/gobelohorizonte).
 
